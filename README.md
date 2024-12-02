@@ -1,4 +1,4 @@
-# COMP7506 Group Project
+# COMP7506
 Android Mobile Game - Food Does Not Strike
 
 This is a mobile game developed using Android Studio IDE. I am going to state below how to compile and excute this game.
